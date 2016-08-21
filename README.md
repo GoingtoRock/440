@@ -1,1 +1,3 @@
-# cs440 mp2,3,4
+# cs440 mp3 & 4
+
+mp 4 consists of part 1 and 2.
